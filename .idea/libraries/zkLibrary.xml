@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="zkLibrary">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zk.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zhtml.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zul.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zkplus.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zweb.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/ext/bsh.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/ext/commons-fileupload.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/ext/commons-io.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/ext/jruby.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/ext/js.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/ext/jython.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zkforge/breeze.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zkforge/ckez.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zkforge/fckez.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zkforge/sapphire.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zkforge/silvertail.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zcommon.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/zk-bin-5.0.9/dist/lib/zcommons-el.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

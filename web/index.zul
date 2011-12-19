@@ -1,0 +1,35 @@
+<zk xmlns="http://www.zkoss.org/2005/zul"
+    xmlns:h="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.zkoss.org/2005/zul http://www.zkoss.org/2005/zul/zul.xsd">
+    <window mode="overlapped" title="Login Window" width="1000px" height="1000px">
+        <borderlayout height="100%">
+            <north title="North" size="300px" splittable="true">
+                  <div>
+                      west
+                  </div>
+            </north>
+            <west title="West" maxsize="200">
+                <div>
+                    west
+                </div>
+            </west>
+            <center title="Center" flex="true">
+                <div>
+                    center
+                </div>
+            </center>
+            <east title="East" maxsize="200">
+                             <div>
+                                 east
+                             </div>
+            </east>
+            <south title="South" maxsize="200">
+                <div>
+                  south
+                </div>
+            </south>
+
+        </borderlayout>
+    </window>
+</zk>
